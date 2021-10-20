@@ -1,3 +1,4 @@
+// forEach
 var books = [
   { title: "Harry Potter", author: "JK Rowling", pages: 300 },
   { title: "Green eggs and ham", author: "Dr. Seuss", pages: 25 },
